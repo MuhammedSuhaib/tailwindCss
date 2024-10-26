@@ -1,8 +1,8 @@
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import Hero from "./Components/Hero";
-import About from "./Components/About";
-import Services from "./Components/Services";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+import Hero from "../components/Hero";
+import About from "../components/About";
+import Services from "../components/Services";
 
 export default function Home() {
   return (
